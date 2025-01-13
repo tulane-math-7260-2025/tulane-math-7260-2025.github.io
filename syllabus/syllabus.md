@@ -3,7 +3,7 @@ layout: course
 title: Math 6040/7260
 ---
 
-# Math 6040/7260 - Linear Models - Spring 2023
+# Math 6040/7260 - Linear Models - Spring 2025
 
 ## Syllabus
 
