@@ -27,7 +27,8 @@ Topics:
 | Monday | Wednesday | Friday | HW |
 |:-----------|:-----------|:------------|:---|
 | **01/13** Intro | **01/15** Git | **01/17** linear algebra review | [HW1](../HW/HW1/HW1.pdf) |
-| **01/20** _no class_ (MLK day) | **01/22** _no class_ (snow day)  | **01/24** R basics | |
+| **01/20** _no class_ (MLK day) | **01/22** _no class_ (snow day)  | **01/24** Null Space | |
+| **01/27** R Basics [[Rmd](../notes/Lecture5/R.Rmd)] | | | |
 | **03/03** _no class_ (Mardi Gras) | **03/05** _no class_ (Mardi Gras) | **03/07** _no class_ (Mardi Gras)| |
 |  | **04/16** _no class_ (Lagniappe Holiday) | |
 
