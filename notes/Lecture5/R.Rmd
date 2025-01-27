@@ -3,12 +3,12 @@ title: "Lecture 5, R Basics"
 author: "Dr. Xiang Ji @ Tulane University"
 date: "January 27, 2025"
 output:
-  pdf_document:
-    toc: yes
-    toc_depth: '4'
   html_document:
     toc: yes
     toc_depth: 4
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
 subtitle: "MATH-7260 Linear Models"
 csl: ../apa.csl
 ---
