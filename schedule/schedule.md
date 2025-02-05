@@ -30,6 +30,7 @@ Topics:
 | **01/20** _no class_ (MLK day) | **01/22** _no class_ (snow day)  | **01/24** Null Space | |
 | **01/27** R Basics [[Rmd](../notes/Lecture5/R.Rmd)] | **01/29** Statistical populations | **01/31** Simple linear regression | Lab 1 [[Rmd](../notes/Lab_01/lab_01_preparation.Rmd)][[html](../notes/Lab_01/lab_01_preparation.html)] |
 | **02/03** Sum of squares | **02/05** R-square | **02/07** Lab 2 [[Rmd](../notes/Lab_02/lab_02_SLR_to_fill.Rmd)][[html](../notes/Lab_02/lab_02_SLR_to_fill.html)] |  |
+| **02/10** Statistical model of SLR | | | [HW2](../HW/HW2/HW2.pdf) [[Duncan's data](../HW/HW2/Duncan.txt)] |
 | **03/03** _no class_ (Mardi Gras) | **03/05** _no class_ (Mardi Gras) | **03/07** _no class_ (Mardi Gras)| |
 |  | **04/16** _no class_ (Lagniappe Holiday) | |
 
