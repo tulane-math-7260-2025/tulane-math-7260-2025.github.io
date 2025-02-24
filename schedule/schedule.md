@@ -32,7 +32,7 @@ Topics:
 | **02/03** Sum of squares | **02/05** R-square | **02/07** Lab 2 [[Rmd](../notes/Lab_02/lab_02_SLR_to_fill.Rmd)][[html](../notes/Lab_02/lab_02_SLR_to_fill.html)] |  |
 | **02/10** Statistical model of SLR | **02/12** Inference of SLR | **02/14** Lab 3 [[Rmd](../notes/Lab_03/Lab_03_to_fill.Rmd)][[html](../notes/Lab_03/Lab_03_to_fill.html)] | [HW2](../HW/HW2/HW2.pdf) [[Duncan's data](../HW/HW2/Duncan.txt)] |
 | **02/17** Inference of SLR | **02/19** Multiple linear regression | **02/21** Lab 4 [[Rmd](../notes/Lab_04/Lab_04_to_fill.Rmd)][[html](../notes/Lab_04/Lab_04_to_fill.html)] | |
-| **02/24** Multiple linear regression | | | |
+| **02/24** Multiple linear regression | **02/26** Dummy variables | | |
 | **03/03** _no class_ (Mardi Gras) | **03/05** _no class_ (Mardi Gras) | **03/07** _no class_ (Mardi Gras)| |
 |  | **04/16** _no class_ (Lagniappe Holiday) | |
 
