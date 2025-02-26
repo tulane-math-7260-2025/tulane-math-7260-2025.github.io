@@ -387,7 +387,7 @@ Y &lt;- as.matrix(prestige.data[, &quot;prestige&quot;])</code></pre>
 <pre class="r"><code># Now calculate the LS estimate
 system.time(beta.estimate &lt;- solve(gramian.mat) %*% t(X) %*% Y)</code></pre>
 <pre><code>##    user  system elapsed 
-##   0.001   0.000   0.000</code></pre>
+##       0       0       0</code></pre>
 <pre class="r"><code>beta.estimate</code></pre>
 <pre><code>##                 [,1]
 ## 1         -6.0646629
@@ -424,6 +424,7 @@ sigma.matrix</code></pre>
 sqrt(sigma.matrix[2, 2])</code></pre>
 <pre><code>## [1] 0.1196673</code></pre>
 <p>Q3. Hypothesis test of <span class="math inline">\(H_0: \beta_1 =
+0\)</span> vs. <span class="math inline">\(H_1: \beta_1 \neq
 0\)</span></p>
 <p>t(0.025, 42) critical value:</p>
 <pre class="r"><code>qt(1.0 - 0.025, 42) #take a look at the documentation of &quot;qt&quot;</code></pre>

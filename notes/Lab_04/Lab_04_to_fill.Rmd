@@ -75,7 +75,7 @@ sigma.matrix <-
 sqrt(sigma.matrix[2, 2])
 ```
 
-## Q3. Hypothesis test of $H_0: \beta_1 = 0$
+## Q3. Hypothesis test of $H_0: \beta_1 = 0$ vs. $H_1: \beta_1 \neq 0$
 
 t(0.025, 42) critical value:
 

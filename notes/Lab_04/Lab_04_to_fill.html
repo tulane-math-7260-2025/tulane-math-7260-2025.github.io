@@ -362,8 +362,9 @@ calculate the least square estimates</a></li>
 <li><a href="#q2.-now-calculate-the-variance-covariance-matrix-to-get-the-standard-error-of-hatbeta_1" id="toc-q2.-now-calculate-the-variance-covariance-matrix-to-get-the-standard-error-of-hatbeta_1">Q2.
 Now calculate the variance-covariance matrix to get the standard error
 of <span class="math inline">\(\hat{\beta}_1\)</span></a></li>
-<li><a href="#q3.-hypothesis-test-of-h_0-beta_1-0" id="toc-q3.-hypothesis-test-of-h_0-beta_1-0">Q3. Hypothesis test of
-<span class="math inline">\(H_0: \beta_1 = 0\)</span></a></li>
+<li><a href="#q3.-hypothesis-test-of-h_0-beta_1-0-vs.-h_1-beta_1-neq-0" id="toc-q3.-hypothesis-test-of-h_0-beta_1-0-vs.-h_1-beta_1-neq-0">Q3.
+Hypothesis test of <span class="math inline">\(H_0: \beta_1 = 0\)</span>
+vs. <span class="math inline">\(H_1: \beta_1 \neq 0\)</span></a></li>
 <li><a href="#q4.-mean-prestige-estimate-given-income-42-and-education-84" id="toc-q4.-mean-prestige-estimate-given-income-42-and-education-84">Q4.
 Mean prestige estimate given <span class="math inline">\(income =
 42\)</span> and <span class="math inline">\(education =
@@ -434,8 +435,9 @@ sigma.matrix &lt;-
 # standard error for beta_1
 sqrt(sigma.matrix[2, 2])</code></pre>
 </div>
-<div id="q3.-hypothesis-test-of-h_0-beta_1-0" class="section level2">
+<div id="q3.-hypothesis-test-of-h_0-beta_1-0-vs.-h_1-beta_1-neq-0" class="section level2">
 <h2>Q3. Hypothesis test of <span class="math inline">\(H_0: \beta_1 =
+0\)</span> vs. <span class="math inline">\(H_1: \beta_1 \neq
 0\)</span></h2>
 <p>t(0.025, 42) critical value:</p>
 <pre class="r"><code>qt(1.0 - 0.025, 42) #take a look at the documentation of &quot;qt&quot;
