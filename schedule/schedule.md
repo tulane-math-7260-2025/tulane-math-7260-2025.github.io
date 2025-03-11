@@ -34,7 +34,7 @@ Topics:
 | **02/17** Inference of SLR | **02/19** Multiple linear regression | **02/21** Lab 4 [[Rmd](../notes/Lab_04/Lab_04_to_fill.Rmd)][[html](../notes/Lab_04/Lab_04_to_fill.html)] | |
 | **02/24** Multiple linear regression | **02/26** Dummy variables | **02/28** Lab 5  [[Rmd](../notes/Lab_05/Lab_05_to_fill.Rmd)][[html](../notes/Lab_05/Lab_05_to_fill.html)] | |
 | **03/03** _no class_ (Mardi Gras) | **03/05** _no class_ (Mardi Gras) | **03/07** _no class_ (Mardi Gras)| |
-| **03/10** Dummy variable | | | |
+| **03/10** Dummy variable | **03/12** Unusual data | | |
 | | | **03/21** Midterm exam | |
 |  | **04/16** _no class_ (Lagniappe Holiday) | |
 
