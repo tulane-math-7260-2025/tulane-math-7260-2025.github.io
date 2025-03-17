@@ -35,6 +35,6 @@ Topics:
 | **02/24** Multiple linear regression | **02/26** Dummy variables | **02/28** Lab 5  [[Rmd](../notes/Lab_05/Lab_05_to_fill.Rmd)][[html](../notes/Lab_05/Lab_05_to_fill.html)] | |
 | **03/03** _no class_ (Mardi Gras) | **03/05** _no class_ (Mardi Gras) | **03/07** _no class_ (Mardi Gras)| |
 | **03/10** Dummy variable | **03/12** Leverage and influence | **03/14** Lab 6 [[Rmd](../notes/Lab_06/Lab_06_to_fill.Rmd)][[html](../notes/Lab_06/Lab_06_to_fill.html)] | |
-| **03/17** Added variable plot | | **03/21** Midterm exam | |
+| **03/17** Added variable plot | **03/19** Quantile comparison plot | **03/21** Midterm exam | |
 |  | **04/16** _no class_ (Lagniappe Holiday) | |
 
