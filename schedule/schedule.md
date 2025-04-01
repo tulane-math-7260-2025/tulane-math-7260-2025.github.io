@@ -37,6 +37,6 @@ Topics:
 | **03/10** Dummy variable | **03/12** Leverage and influence | **03/14** Lab 6 [[Rmd](../notes/Lab_06/Lab_06_to_fill.Rmd)][[html](../notes/Lab_06/Lab_06_to_fill.html)] | |
 | **03/17** Added variable plot | **03/19** Quantile comparison plot | **03/21** Midterm exam | |
 | **03/24** Midterm exam | **03/26** Non-linearity | **03/28** Presentation & Midterm review| |
-| **03/31** Collinearity | **04/02** Principal component analysis | | [HW3](../HW/HW3/HW3.pdf) |
+| **03/31** Collinearity | **04/02** Principal component analysis | **04/04** Lab 7 [[Rmd](../notes/Lab_07/Lab_07_to_fill.Rmd)][[html](../notes/Lab_07/Lab_07_to_fill.html)] | [HW3](../HW/HW3/HW3.pdf) |
 |  | **04/16** _no class_ (Lagniappe Holiday) | |
 
